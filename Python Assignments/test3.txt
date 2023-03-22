@@ -1,0 +1,1 @@
+hello this is writeline() functionThis is an assignment from pwskillsthis is me learning file handling
